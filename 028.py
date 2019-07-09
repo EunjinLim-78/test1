@@ -23,3 +23,4 @@ for s in Seq1:
 
 print(compSeq)
 print(newSeq)
+'''
